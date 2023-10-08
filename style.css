@@ -1,0 +1,60 @@
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.navbar-brand {
+    font-size: 24px;
+}
+
+
+.container {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+.img-fluid {
+    max-width: 100%;
+}
+
+
+h1 {
+    font-size: 28px;
+    margin-top: 0;
+}
+
+
+p strong {
+    font-size: 20px;
+    color: #007bff;
+}
+
+
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+
+.customer-review {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.customer-review h3 {
+    font-size: 18px;
+    margin-top: 0;
+}
+
+.rating {
+    color: #f8b400;
+    font-weight: bold;
+    margin-top: 5px;
+}
